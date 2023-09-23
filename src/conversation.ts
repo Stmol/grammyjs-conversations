@@ -20,7 +20,7 @@ import {
     type SessionFlavor,
     type Update,
     type User,
-} from "./deps.deno.ts";
+} from "./deps.node.js";
 import { ConversationForm } from "./form.ts";
 import {
     clone,

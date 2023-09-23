@@ -1,4 +1,4 @@
-import { type Context } from "./deps.deno.ts";
+import { type Context } from "./deps.node.js";
 
 /**
  * Form building utilities that are exposed on `conversation.form`.

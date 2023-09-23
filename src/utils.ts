@@ -1,4 +1,4 @@
-import { delistify, listify } from "./deps.deno.ts";
+import { delistify, listify } from "./deps.node.js";
 
 /** Identity function */
 export function ident<T>(arg: T) {
